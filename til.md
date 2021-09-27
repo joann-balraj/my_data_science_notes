@@ -4,4 +4,6 @@
 
 09-22-21: Today I learned how to join tables with different types of join commands to null different things.
 
-09-23-22: Today I learned how to join two of the same table, giving them two different aliases to select two different columns from one table.
+09-23-21: Today I learned how to join two of the same table, giving them two different aliases to select two different columns from one table.
+
+09-27-21: Today I reflected on SQL and prepared for the quiz.
