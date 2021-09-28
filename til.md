@@ -7,3 +7,5 @@
 09-23-21: Today I learned how to join two of the same table, giving them two different aliases to select two different columns from one table.
 
 09-27-21: Today I reflected on SQL and prepared for the quiz.
+
+09-28-21: Today I learned to use float instead of integer to control any unwanted rounding of numbers.
