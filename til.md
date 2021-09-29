@@ -9,3 +9,5 @@
 09-27-21: Today I reflected on SQL and prepared for the quiz.
 
 09-28-21: Today I learned to use float instead of integer to control any unwanted rounding of numbers.
+
+09-28-21: Today I learned the exercise I was working on was one case and only needed one case keyword with the conditions as a list.
