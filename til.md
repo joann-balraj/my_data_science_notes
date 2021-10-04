@@ -12,4 +12,6 @@
 
 09-29-21: Today I learned the exercise I was working on was one case and only needed one case keyword with the conditions as a list.
 
-09-30-21: Today I learned how to pull/collaboratein github. I also learned that carbs consist of carbon, hydrogen, and oxygen.
+09-30-21: Today I learned how to pull/collaborate in github. I also learned that carbs consist of carbon, hydrogen, and oxygen.
+
+10-03-21: Today I learned that i can use some of my code from the python 101 exercises for the python list comprehension.
