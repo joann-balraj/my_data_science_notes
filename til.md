@@ -14,4 +14,8 @@
 
 09-30-21: Today I learned how to pull/collaborate in github. I also learned that carbs consist of carbon, hydrogen, and oxygen.
 
-10-03-21: Today I learned that i can use some of my code from the python 101 exercises for the python list comprehension.
+10-04-21: Today I learned that i can use some of my code from the python 101 exercises for the python list comprehension.
+
+10-05-21: Today I learned how to use .replace() as a method for python functions.
+
+10-06-21: Today I learned to listen better and understand that certain people are more sensitive to the subjects I talk about.
