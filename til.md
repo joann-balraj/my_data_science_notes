@@ -19,3 +19,5 @@
 10-05-21: Today I learned how to use .replace() as a method for python functions.
 
 10-06-21: Today I learned to listen better and understand that certain people are more sensitive to the subjects I talk about.
+
+10-07-21: Today I learned how to better my walkthroughs and comments for code. I also learned about imports.
