@@ -23,3 +23,7 @@
 10-07-21: Today I learned how to better my walkthroughs and comments for code. I also learned about imports.
 
 10-08-21: Today I learned how to stretch better and also more about my muscles and soreness.
+
+10-12-21: Today I learned about numpy functions
+
+10-13-21: Today I learned new numpy functions like .reshape(), .transpose(), etc.
