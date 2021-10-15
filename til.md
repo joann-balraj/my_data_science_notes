@@ -28,4 +28,6 @@
 
 10-13-21: Today I learned new numpy functions like .reshape(), .transpose(), etc.
 
-10-14-21: Today I began learning pandas.
+10-14-21: Today I began learning pandas series.
+
+10-15-21: Today I began learning pandas dataframes.
