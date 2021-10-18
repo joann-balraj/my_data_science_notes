@@ -31,3 +31,5 @@
 10-14-21: Today I began learning pandas series.
 
 10-15-21: Today I began learning pandas dataframes.
+
+10-18-21: Today I went deeper into dataframes.
