@@ -33,3 +33,5 @@
 10-15-21: Today I began learning pandas dataframes.
 
 10-18-21: Today I went deeper into dataframes.
+
+10-19-21: Today I went even deeper into dataframes, incorporating joins, aggregate functions, etc. from SQL.
