@@ -37,3 +37,7 @@
 10-19-21: Today I went even deeper into dataframes, incorporating joins, aggregate functions, etc. from SQL.
 
 10-20-21: Today I began learning Seaborn.
+
+10-21-21: Today learned the function nunique() for python in pandas.
+
+10-25-21: Today I began learning about visualizations in data science, and learned the differences between bad, good, and misleading charts. 
