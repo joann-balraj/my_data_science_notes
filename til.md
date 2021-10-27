@@ -40,4 +40,8 @@
 
 10-21-21: Today learned the function nunique() for python in pandas.
 
-10-25-21: Today I began learning about visualizations in data science, and learned the differences between bad, good, and misleading charts. 
+10-25-21: Today I began learning about visualizations in data science, and learned the differences between bad, good, and misleading charts.
+
+10-26-21: Today I learned about Trello and storytelling.
+
+10-27-21: Today I began learning about Tableau.
