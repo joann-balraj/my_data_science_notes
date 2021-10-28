@@ -45,3 +45,5 @@
 10-26-21: Today I learned about Trello and storytelling.
 
 10-27-21: Today I began learning about Tableau.
+
+10-28-21: Today I learned how to use Tableau to create visualizations for presenting big data.
