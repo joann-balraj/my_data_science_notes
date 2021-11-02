@@ -49,3 +49,5 @@
 10-28-21: Today I learned how to use Tableau to create visualizations for presenting big data.
 
 11-01-21: Today I learned more about Tableau dashboards and stories.
+
+11-02-21: Today I learned about more statistics using python.
