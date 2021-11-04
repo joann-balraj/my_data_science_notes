@@ -50,4 +50,8 @@
 
 11-01-21: Today I learned more about Tableau dashboards and stories.
 
-11-02-21: Today I learned about more statistics using python.
+11-02-21: Today I learned about simulations using python.
+
+11-03-21: Today I started using probability distribution with python.
+
+11-04-21: Today I started using hypothesis testing with python.
