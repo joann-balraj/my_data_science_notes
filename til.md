@@ -54,4 +54,6 @@
 
 11-03-21: Today I started using probability distribution with python.
 
-11-04-21: Today I started using hypothesis testing with python.
+11-04-21: Today I learned about t testing with python.
+
+11-05-21: Today I learned about correlation using python.
