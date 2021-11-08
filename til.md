@@ -57,3 +57,5 @@
 11-04-21: Today I learned about t testing with python.
 
 11-05-21: Today I learned about correlation using python.
+
+11-08-21: Today I began learning about chi square in stats with python.
