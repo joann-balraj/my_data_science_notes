@@ -59,3 +59,5 @@
 11-05-21: Today I learned about correlation using python.
 
 11-08-21: Today I began learning about chi square in stats with python.
+
+11-09-21: Today I began learning classification with machine learning.
