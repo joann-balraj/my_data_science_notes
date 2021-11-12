@@ -60,4 +60,8 @@
 
 11-08-21: Today I began learning about chi square in stats with python.
 
-11-09-21: Today I began learning classification with machine learning.
+11-09-21: Today I began learning about data aquisition and classification with machine learning.
+
+11-10-21: Today I began learning about data preperation with machine learning.
+
+11-11-21: Today I learned about tidying up data for machine learning.
