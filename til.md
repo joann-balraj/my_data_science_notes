@@ -64,4 +64,8 @@
 
 11-10-21: Today I began learning about data preperation with machine learning.
 
-11-11-21: Today I learned about tidying up data for machine learning.
+11-12-21: Today I learned about data exploration.
+
+11-15-21: Today I went deeper into data exploration and the beginning of tidying up data lesson.
+
+11-16-21: Today I continued learning about tidying up data.
