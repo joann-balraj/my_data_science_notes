@@ -69,3 +69,7 @@
 11-15-21: Today I went deeper into data exploration and the beginning of tidying up data lesson.
 
 11-16-21: Today I continued learning about tidying up data.
+
+11-17-21: Today I learned about decision trees.
+
+11-18-21: Today i learned about random forests.
