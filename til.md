@@ -70,6 +70,10 @@
 
 11-16-21: Today I continued learning about tidying up data.
 
-11-17-21: Today I learned about decision trees.
+11-17-21: Today I learned about decision tree models.
 
-11-18-21: Today i learned about random forests.
+11-18-21: Today I learned about random forest models.
+
+11-19-21: Today I learned about KNN models and logistic regression
+
+11-22-21: Today I began working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
