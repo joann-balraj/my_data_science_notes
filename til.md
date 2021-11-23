@@ -77,3 +77,5 @@
 11-19-21: Today I learned about KNN models and logistic regression
 
 11-22-21: Today I began working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
+
+11-23-21: Today I continued working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
