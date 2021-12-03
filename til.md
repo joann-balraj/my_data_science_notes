@@ -74,8 +74,18 @@
 
 11-18-21: Today I learned about random forest models.
 
-11-19-21: Today I learned about KNN models and logistic regression
+11-19-21: Today I learned about KNN models and logistic regression.
 
 11-22-21: Today I began working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
 
-11-23-21: Today I continued working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
+11-23-21 through 11-29-21: Today I continued working on a project where I utilize all classification and models, etc. lessons on the telco dataset from Codeup.
+
+11-30-21: Today I started learning about linear regression.
+
+11-31-21: Today I wrangled data for linear regreassion.
+
+11-31-21: Today I started doing aquisition and prep for linear regression.
+
+12-01-21: Today I started scaling data for linear regression.
+
+12-02-21: Today I continued scaling data for linear regression.
