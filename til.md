@@ -89,3 +89,7 @@
 12-01-21: Today I started scaling data for linear regression.
 
 12-02-21: Today I continued scaling data for linear regression.
+
+12-03-21: Today I continued with scaling data.
+
+12-06-21: Today I began evaluating regression models.
