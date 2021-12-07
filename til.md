@@ -93,3 +93,5 @@
 12-03-21: Today I continued with scaling data.
 
 12-06-21: Today I began evaluating regression models.
+
+12-07-21: Today I began learning to do feature engineering.
