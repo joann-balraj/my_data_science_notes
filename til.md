@@ -95,3 +95,5 @@
 12-06-21: Today I began evaluating regression models.
 
 12-07-21: Today I began learning to do feature engineering.
+
+12-08-21: Today I began linear regression modeling.
