@@ -101,3 +101,8 @@
 12-09-21: Today I began working on my zillow clustering project.
 
 12-09-21: Today I continued working on my zillow clustering project.
+
+01-03-22: Today I learned about Clustering modeling.
+
+01-04-22: Today I started using clusters.
+
